@@ -32,8 +32,8 @@ export default function Footer() {
         <div>
           <h4 className="text-white font-semibold mb-4">Contacto</h4>
           <p>Rosario, Santa Fe</p>
-          <p>WhatsApp: +54 9 341 XXX XXXX</p>
-          <p>Email: info@neonevents.com</p>
+          <p>WhatsApp: +54 9 341 216 7147</p>
+          <p>Email:benegasfernando1993@gmail.com</p>
         </div>
 
       </div>

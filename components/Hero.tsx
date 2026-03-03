@@ -24,7 +24,7 @@ export default function Hero() {
       </div>
 
       <a
-      href="https://wa.me/5493410000000?text=Hola!%20Quiero%20presupuesto%20para%20un%20cartel%20de%20neón."
+      href="https://wa.me/5493412167147?text=Hola!%20Quiero%20presupuesto%20para%20un%20cartel%20de%20neón."
       target="_blank"
       className="mt-10 inline-block px-8 py-3 border border-cyan-400 rounded-full text-cyan-400 hover:bg-cyan-400 hover:text-black transition shadow-[0_0_15px_#00ffff]"
     >

@@ -6,6 +6,7 @@ import Contact from "@/components/Contact";
 import WhatsAppButton from "@/components/WhatsAppButton";
 import Process from "@/components/Process";
 import Footer from "@/components/Footer";
+import Mirrors from "@/components/Mirrors";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <Process />
       <Services />
       <Gallery />
+     < Mirrors />
       <Contact />
       <WhatsAppButton />
       <Footer />
