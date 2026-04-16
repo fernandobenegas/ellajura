@@ -4,6 +4,7 @@ import ParticlesBackground from "@/components/ParticlesBackground";
 import SectionWrapper from "@/components/SectionWrapper";
 import Image from "next/image";
 import { useEffect, useState } from "react";
+
 import { Instagram } from "lucide-react";
 
 

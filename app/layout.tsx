@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import { SpeedInsights } from "@vercel/speed-insights/next"
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 import "./globals.css";
 
@@ -33,6 +33,8 @@ export default function RootLayout({
     <html lang="es">
       <body className="bg-[] text-[#1a150d]">
         {children}
+        <Analytics />
+        <SpeedInsights /> //que tan rapida es mi web, que tan optimizada esta, que tan bien rankea en google, etc
       </body>
     </html>
   );
