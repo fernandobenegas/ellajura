@@ -59,7 +59,7 @@ export default function Products() {
       <section className="py-24 px-6 bg-[#0b0b0b] text-[#f3e7d3]">
 
         {/* TITLE */}
-        <h2 className="text-4xl italic text-center mb-14 tracking-wide underline underline-offset-4 decoration-[#d4af37]">
+        <h2 className="text-4xl italic text-center mb-14 tracking-wide underline underline-offset-4 decoration-yellow-500">
           Nuestros Productos
         </h2>
 
