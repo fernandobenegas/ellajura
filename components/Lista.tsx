@@ -50,13 +50,13 @@ export default function Lista() {
             </div>
 
             <div className="flex justify-between border-b border-white/10 pb-1">
-              <span>🍪 Biscochos 1 docena</span>
+              <span>🍪 Biscochos 1/2 docena</span>
               <span className="text-[#d4af37]">$2500</span>
             </div>
 
             <div className="flex justify-between pt-2 font-semibold">
-              <span>Combo</span>
-              <span className="text-[#d4af37]">$4500</span>
+              <span>Combo(1/2 docena Combinadas)</span>
+              <span className="text-[#d4af37]">$3500</span>
             </div>
 
           </div>
