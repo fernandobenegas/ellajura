@@ -32,8 +32,8 @@ const products = [
   },
   
   {
-    title: "Bizcochos",
-    description: "Crujientes, livianos y perfectos para el mate. 1/2 docena: $2500 | 1 docena: $5000",
+    title: "Biscochos",
+    description: "Crujientes ojaldrados, livianos y perfectos para el mate. 1/2 docena: $2500 | 1 docena: $5000",
     image: "/biscochos.jpeg",
   },
   
@@ -59,7 +59,7 @@ export default function Products() {
       <section className="py-24 px-6 bg-[#0b0b0b] text-[#f3e7d3]">
 
         {/* TITLE */}
-        <h2 className="text-4xl font-italict text-center mb-14 tracking-wide">
+        <h2 className="text-4xl italic text-center mb-14 tracking-wide underline underline-offset-4 decoration-[#d4af37]">
           Nuestros Productos
         </h2>
 
