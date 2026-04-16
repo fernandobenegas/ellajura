@@ -51,8 +51,8 @@ export default function Contact() {
       className="bg-[#0b0b0b] text-[#f3e7d3] py-24 px-6"
     >
       {/* TITLE */}
-      <h2 className="text-4xl font-semibold text-center mb-14 tracking-wide underline underline-offset-4 decoration-[#d4af37] ">
-        Dejanos tu opnion para mejorar cada dia
+      <h2 className="text-4xl italic text-center mb-14 tracking-wide  underline underline-offset-4 decoration-yellow-500">
+        Dejanos tu opinión para mejorar cada dia
       </h2>
 
       {/* FORM */}

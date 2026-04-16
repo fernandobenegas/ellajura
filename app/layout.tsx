@@ -34,7 +34,7 @@ export default function RootLayout({
       <body className="bg-[] text-[#1a150d]">
         {children}
         <Analytics />
-        <SpeedInsights /> //que tan rapida es mi web, que tan optimizada esta, que tan bien rankea en google, etc
+        <SpeedInsights /> 
       </body>
     </html>
   );

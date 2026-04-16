@@ -73,7 +73,7 @@ useEffect(() => {
       transition
     "
   >
-    <Instagram size={18} />
+    <Instagram size={20} />
     <span>Ellajura.ok</span>
   </a>
 
